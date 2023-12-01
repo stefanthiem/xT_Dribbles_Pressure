@@ -1,0 +1,14 @@
+sasoptpy==1.0.5 
+mplsoccer==1.2.2
+mip==1.15.0
+pulp==2.7.0
+tqdm==4.66.1
+openpyxl==3.1.2
+scikit-learn==1.3.2
+xgboost==2.0.2
+shap==0.43.0
+statsbombpy==1.11.0
+webp==0.3.0
+matplotlib==3.8.2
+ipywidgets==8.1.1
+scikit-learn==1.3.2
